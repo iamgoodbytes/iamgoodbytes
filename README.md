@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GoodBytes!
-- 👀 I’m a coder/teacher (full-time) and restaurant cook (part-time)
+- 👀 I’m a developer/teacher in college
 - 🌱 Building prototypes and production-ready web apps is what I like to do most
 
 I like to build API-based apps based on NodeJS and MongoDB, it just feels _right_.
